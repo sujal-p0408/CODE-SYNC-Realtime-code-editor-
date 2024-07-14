@@ -10,6 +10,9 @@ Code Sync is a real-time code collaboration platform that allows developers to w
 - **User Authentication**: Secure login system to protect your projects.
 - **Cross-Platform Support**: Use Code Sync on any device with a web browser.
 
+## Demo
+Check out the live demo of Code Sync: https://realtime-code-editor-demo.vercel.app/
+
 ## Screenshots
 
 ### Dashboard
